@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/acme_landingPage/static/css/main.30ae42ed.css",
+    "main.js": "/acme_landingPage/static/js/main.fbbc4da2.js",
+    "static/js/453.195a62ab.chunk.js": "/acme_landingPage/static/js/453.195a62ab.chunk.js",
+    "index.html": "/acme_landingPage/index.html",
+    "main.30ae42ed.css.map": "/acme_landingPage/static/css/main.30ae42ed.css.map",
+    "main.fbbc4da2.js.map": "/acme_landingPage/static/js/main.fbbc4da2.js.map",
+    "453.195a62ab.chunk.js.map": "/acme_landingPage/static/js/453.195a62ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ae42ed.css",
+    "static/js/main.fbbc4da2.js"
+  ]
+}
